@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab7d078f-59f0-43e7-9d05-cb8bc183d4fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/problem_3689_MaximumTotalSubarrayValueI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_2161_PartitionArrayAccordingtoGivenPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_2161_PartitionArrayAccordingtoGivenPivot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
